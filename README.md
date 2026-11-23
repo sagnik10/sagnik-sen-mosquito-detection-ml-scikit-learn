@@ -1,3 +1,18 @@
+<!-- SAGNIK10-STYLE-HEADER -->
+<div align="center">
+  <a href="https://github.com/sagnik10"><img src="https://img.shields.io/badge/Sagnik_Sen-AI%20%26%20Computer%20Vision-275cce?style=flat-square" alt="Category" /></a>
+  <img src="https://img.shields.io/badge/Stack-Python-192a43?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/License-MIT-54647a?style=flat-square" alt="License" />
+</div>
+
+<p align="center">
+  <a href="https://sagnik10.github.io/SagnikSenPortfolio/">Portfolio</a> ·
+  <a href="https://github.com/sagnik10">GitHub Profile</a> ·
+  <a href="https://github.com/sagnik10/sagnik-sen-antigravity-plugin">Antigravity Plugin</a>
+</p>
+
+---
+<!-- /SAGNIK10-STYLE-HEADER -->
 # Mosquito Detection Using TensorFlow and Keras
 
 ## Introduction
@@ -57,3 +72,13 @@ The developed mosquito detection system leverages deep learning to enhance disea
 
 ### Model Architecture Details
 - Detailed architecture description of the customized MobileNetV2 model.
+
+
+<!-- SAGNIK10-STYLE-FOOTER -->
+---
+<p align="center">
+  Maintained by <a href="https://github.com/sagnik10"><strong>Sagnik Sen</strong></a> ·
+  <a href="https://sagnik10.github.io/SagnikSenPortfolio/">Portfolio &amp; 1-on-1 Teaching</a> ·
+  <a href="https://www.linkedin.com/in/sagnik-sen-0a70431a8/">LinkedIn</a>
+</p>
+<!-- /SAGNIK10-STYLE-FOOTER -->
